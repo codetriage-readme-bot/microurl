@@ -8,6 +8,8 @@
     :target: https://coveralls.io/github/MicroPyramid/microurl?branch=master
 .. image:: https://img.shields.io/pypi/l/microurl.svg
     :target: https://pypi.python.org/pypi/microurl/
+.. image:: https://www.codetriage.com/micropyramid/microurl/badges/users.svg
+    :target: https://www.codetriage.com/micropyramid/microurl
 
 python library for url minification.
 
